@@ -47,3 +47,10 @@ Contributions to the Heimdall Discord Bot are welcome. Please follow the standar
 ---
 
 *Note: This bot is designed for educational and informational purposes and is not intended for production use without proper security measures.*
+
+## Screenshots
+
+Here are some screenshots showcasing the Heimdall Discord Bot in action:
+
+1. **Asking Heimdall about a vulnerability that was not out at the time of training**:
+   ![Chat Interaction](pics/logofail.png)
