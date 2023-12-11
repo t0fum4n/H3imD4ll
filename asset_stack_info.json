@@ -1,0 +1,15 @@
+### this still needs a list of resources that are currently being monitored for threats. (Windows 10, Windows 11, Ubuntu, M365, Okta, Etc. etc. )
+
+
+
+
+[
+    {
+        "role": "system",
+        "content": "This is a list of the currently monitored assets by your organization. Use this list as reference in your threat hunting and identifying efforts."
+    },
+        {
+        "role": "system",
+        "content": "At T0fuSystems, we use AWS, m365, Artic Wolf, Kanji, Okta, m365 Intune, and other tools. We have Some Ubuntu Linux servers that host things like the t0fum4n.com website, and we have some windows endoints. The Cyber Security Engineer Tyler has a Kali Linux laptop that he uses for security purposes."
+    }
+]
