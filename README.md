@@ -11,6 +11,13 @@ Heimdall is a sophisticated Discord bot designed to interact with users, manage 
 - **Alerts Summarization**: Summarizes alerts stored in a JSON file.
 - **Custom Discord Commands**: Includes several Discord commands for users to interact with the bot.
 
+## Future Features
+- **Incident Response Case Managment**: Interact with the ClickUp API to CRUD tasks.\
+- **More Threat Feeds**: CISA KEV, Twitter, Reddit, etc
+- **Lockdown host with chat**: Ask Heimdall to contain a host and he will lock it down from a firewall perspective and begin an analysis of the host to see if it is infected or not.
+- **Executive Reporting Help**: Create automations that use Heimdall to generate automated reports for executive digestion. Get information about your stack in context to threat intel and program maturity fed to upper management in a way they can understand. 
+
+
 ## Setup and Installation
 To set up the Heimdall Discord Bot, you will need:
 - Python 3.x
