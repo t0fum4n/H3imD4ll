@@ -11,9 +11,9 @@ openai_client = OpenAI(api_key=keys.openai_api_key)
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 # Wazuh API and Discord details, along with credentials
-api_url = 'https://192.155.92.57:55000'
-username = 'wazuh-wui'
-password = 'XzqlN151KBP4klRdxptOZU8WeTz+3QpA'
+api_url = keys.wazapi_url
+username = keys.wazusername
+password = keys.wazpassword
 discord_token = keys.discord_token
 discord_channel_id = keys.discord_channel_id
 chat_history_file = 'chat_history.json'
