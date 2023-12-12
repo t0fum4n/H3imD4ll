@@ -48,8 +48,6 @@ Contributions to the Heimdall Discord Bot are welcome. Please follow the standar
 
 ---
 
-*Note: This bot is designed for educational and informational purposes and is not intended for production use without proper security measures.*
-
 ## Disclaimer
 - This is not meant to be a production application. 
 - This is solely meant as a proof of concept and fun thing to play with. 
