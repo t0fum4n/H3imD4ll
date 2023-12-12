@@ -49,6 +49,13 @@ Contributions to the Heimdall Discord Bot are welcome. Please follow the standar
 
 *Note: This bot is designed for educational and informational purposes and is not intended for production use without proper security measures.*
 
+## Disclaimer
+- This is not meant to be a production application. 
+- This is solely meant as a proof of concept and fun thing to play with. 
+- This in no way is meant to adhere to any best practices for coding or development.
+- This is based solely on my interpretation on how tools like this can be used.
+- I used ChatGPT HEAVILY to assist with the code. I am not a professional developer and I make no claims to be. 
+
 ## Screenshots
 
 Below are some examples of Heimdall Discord Bot in action:

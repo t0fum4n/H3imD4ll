@@ -173,6 +173,6 @@ async def on_ready():
     print("Bot is ready and commands are synced globally.")
     client.loop.create_task(call_event_summary_script())
     client.loop.create_task(call_level12_summary_script())
-    #client.loop.create_task(call_hacker_news_script())
+    client.loop.create_task(call_hacker_news_script())
 
 client.run(keys.discord_token)
