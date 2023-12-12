@@ -29,7 +29,8 @@ To set up the Heimdall Discord Bot, you will need:
 2. Install dependencies using `pip install -r requirements.txt`.
 3. Configure the API keys in the `keys` module.
 4. Set up the bot on Discord and obtain the bot token.
-5. Run the bot using `python <bot_script>.py`.
+5. Run the bot using `python heimdall.py`.
+6. Note: The threat news feed function is turned off with a comment at the bottom of the main bot script. The reason this is turned off is because it can take a bit of time to process the intitial summarization of the threat news feed and really doesnt need to be on for test. 
 
 ## Usage
 - **Chat with the Bot**: Mention Heimdall or include 'Heimdall' in your message in Discord.
