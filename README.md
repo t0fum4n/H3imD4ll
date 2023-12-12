@@ -1,15 +1,16 @@
 # Heimdall Discord Bot
 
 ## Description
-Heimdall is a sophisticated, "ChatGPT" powered, Discord bot focued on cybersecurity and designed to interact with users, manage chat history, and perform various automated tasks related to cybersecurity and threat news aggregation. It integrates Discord and OpenAI's GPT-4 model to provide intelligent and contextual responses about your SIEM alerts or threats in the news as they pertain to your org.
+Heimdall is a sophisticated, "ChatGPT" powered, Discord bot focused on cybersecurity and designed to interact with users, manage chat history, and perform various automated tasks related to cybersecurity and threat news aggregation. It integrates Discord and OpenAI's GPT-4 model to provide intelligent and contextual responses about your SIEM alerts or threats in the news as they pertain to your org.
 
 ## Features
-- **Automated Scripts Execution**: Runs various Python scripts to summarize news feeds, manage alerts, and check vulnerabilities.
-- **Chat Interaction**: Responds to user messages in Discord using GPT-4, ensuring contextually relevant and intelligent responses.
-- **Chat History Management**: Maintains a history of chat interactions and has the capability to manage its size.
-- **Vulnerability Checks**: Executes scripts to check for vulnerabilities for specified agents.
-- **Alerts Summarization**: Summarizes alerts stored in a JSON file.
-- **Custom Discord Commands**: Includes several Discord commands for users to interact with the bot.
+- **Automated Scripts Execution**: Executes various Python scripts for summarizing news feeds, managing alerts, and checking vulnerabilities.
+- **Advanced Chat Interaction**: Utilizes GPT-4 for intelligent, contextually relevant responses in Discord chats. The model employed, 'gpt-4-1106-preview', boasts an extensive 128k token context length, enabling the bot to maintain a large chat history. This large context length is pivotal in stacking extensive chat histories and side-loading data like SIEM alerts or summarized threat news feeds. This enhances the bot's ability to provide informed answers beyond the capabilities of regular ChatGPT models.
+- **Chat History Management**: Efficiently maintains and manages the size of chat interaction history.
+- **Vulnerability Checks**: Runs scripts to identify vulnerabilities for specific agents.
+- **Alerts Summarization**: Automatically summarizes and presents alerts from a JSON file for quick review.
+- **Custom Discord Commands**: Offers a range of Discord commands for interactive user engagement.
+
 
 ## Future Features
 - **Incident Response Case Managment**: Interact with the ClickUp API to CRUD tasks.\
@@ -62,18 +63,24 @@ Below are some examples of Heimdall Discord Bot in action:
 
 <p align="center">
   <strong>Questioning Heimdall about a Recent Vulnerability</strong><br>
-  <img src="pics/logofail.png" alt="Asking Heimdall about a vulnerability not known at training time"><br>
+  <a href="pics/logofail.png" target="_blank">
+    <img src="pics/logofail.png" alt="Asking Heimdall about a vulnerability not known at training time" width="80%">
+  </a><br>
   <em>Heimdall's response to a query about a recent vulnerability.</em>
 </p>
 
 <p align="center">
   <strong>Identifying Operating System Based on Vulnerabilities</strong><br>
-  <img src="pics/agentosid.png" alt="Identifying Operating System with Heimdall"><br>
+  <a href="pics/agentosid.png" target="_blank">
+    <img src="pics/agentosid.png" alt="Identifying Operating System with Heimdall" width="80%">
+  </a><br>
   <em>Heimdall identifying an operating system based on listed vulnerabilities.</em>
 </p>
 
 <p align="center">
   <strong>Alert Summarization Feature</strong><br>
-  <img src="pics/alertsummary.png" alt="Summarizing an alert with Heimdall"><br>
+  <a href="pics/alertsummary.png" target="_blank">
+    <img src="pics/alertsummary.png" alt="Summarizing an alert with Heimdall" width="80%">
+  </a><br>
   <em>Heimdall summarizing an alert for easy understanding.</em>
 </p>
