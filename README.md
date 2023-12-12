@@ -13,7 +13,7 @@ Heimdall is a sophisticated, "ChatGPT" powered, Discord bot focused on cybersecu
 
 
 ## Future Features
-- **Incident Response Case Managment**: Interact with the ClickUp API to CRUD tasks.\
+- **Incident Response Case Managment**: Interact with the ClickUp API to CRUD tasks.
 - **More Threat Feeds**: CISA KEV, Twitter, Reddit, etc
 - **Lockdown host with chat**: Ask Heimdall to contain a host and he will lock it down from a firewall perspective and begin an analysis of the host to see if it is infected or not.
 - **Executive Reporting Help**: Create automations that use Heimdall to generate automated reports for executive digestion. Get information about your stack in context to threat intel and program maturity fed to upper management in a way they can understand. 
