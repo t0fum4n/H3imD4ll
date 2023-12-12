@@ -50,7 +50,22 @@ Contributions to the Heimdall Discord Bot are welcome. Please follow the standar
 
 ## Screenshots
 
-Here are some screenshots showcasing the Heimdall Discord Bot in action:
+Below are some examples of Heimdall Discord Bot in action:
 
-1. **Asking Heimdall about a vulnerability that was not out at the time of training**:
-   ![logofail](pics/logofail.png)
+<p align="center">
+  <strong>Questioning Heimdall about a Recent Vulnerability</strong><br>
+  <img src="pics/logofail.png" alt="Asking Heimdall about a vulnerability not known at training time"><br>
+  <em>Heimdall's response to a query about a recent vulnerability.</em>
+</p>
+
+<p align="center">
+  <strong>Identifying Operating System Based on Vulnerabilities</strong><br>
+  <img src="pics/agentosid.png" alt="Identifying Operating System with Heimdall"><br>
+  <em>Heimdall identifying an operating system based on listed vulnerabilities.</em>
+</p>
+
+<p align="center">
+  <strong>Alert Summarization Feature</strong><br>
+  <img src="pics/alertsummary.png" alt="Summarizing an alert with Heimdall"><br>
+  <em>Heimdall summarizing an alert for easy understanding.</em>
+</p>
