@@ -1,7 +1,7 @@
 # Heimdall Discord Bot
 
 ## Description
-Heimdall is a sophisticated Discord bot designed to interact with users, manage chat history, and perform various automated tasks related to cyber security and news aggregation. It integrates Discord and OpenAI's GPT-4 model to provide intelligent and contextual responses.
+Heimdall is a sophisticated, "ChatGPT" powered, Discord bot focued on cybersecurity and designed to interact with users, manage chat history, and perform various automated tasks related to cybersecurity and threat news aggregation. It integrates Discord and OpenAI's GPT-4 model to provide intelligent and contextual responses about your SIEM alerts or threats in the news as they pertain to your org.
 
 ## Features
 - **Automated Scripts Execution**: Runs various Python scripts to summarize news feeds, manage alerts, and check vulnerabilities.
